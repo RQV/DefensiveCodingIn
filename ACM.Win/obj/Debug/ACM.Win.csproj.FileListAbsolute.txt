@@ -1,2 +1,10 @@
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\DefensiveCoding\ACM.Win\bin\Debug\ACM.Win.exe.config
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\bin\Debug\ACM.Win.exe.config
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\bin\Debug\ACM.Win.exe
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\bin\Debug\ACM.Win.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\obj\Debug\ACM.Win.csprojResolveAssemblyReference.cache
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\obj\Debug\ACM.Win.OrderWin.resources
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\obj\Debug\ACM.Win.Properties.Resources.resources
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\obj\Debug\ACM.Win.csproj.GenerateResource.Cache
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\obj\Debug\ACM.Win.exe
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\obj\Debug\ACM.Win.pdb

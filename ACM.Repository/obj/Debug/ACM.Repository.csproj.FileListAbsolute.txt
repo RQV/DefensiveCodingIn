@@ -1,0 +1,7 @@
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Repository\bin\Debug\ACM.Repository.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Repository\bin\Debug\ACM.Repository.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Repository\bin\Debug\ACM.BL.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Repository\bin\Debug\ACM.BL.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Repository\obj\Debug\ACM.Repository.csprojResolveAssemblyReference.cache
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Repository\obj\Debug\ACM.Repository.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Repository\obj\Debug\ACM.Repository.pdb
