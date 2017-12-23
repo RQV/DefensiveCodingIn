@@ -8,5 +8,9 @@ namespace ACM.BL
 {
     public class Payment
     {
+        public void processPayment(Payment payment)
+        {
+            //Process payment fro UI
+        }
     }
 }

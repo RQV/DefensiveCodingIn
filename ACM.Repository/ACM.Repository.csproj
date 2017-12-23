@@ -39,6 +39,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomerRepository.cs" />
+    <Compile Include="InventoryRepository.cs" />
+    <Compile Include="OrderRepository.cs" />
+    <Compile Include="PaymentRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

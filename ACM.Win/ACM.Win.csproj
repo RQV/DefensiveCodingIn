@@ -77,6 +77,16 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ACM.BL\ACM.BL.csproj">
+      <Project>{b683eae1-2739-40a0-89a6-97599836a94c}</Project>
+      <Name>ACM.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ACM.Repository\ACM.Repository.csproj">
+      <Project>{fb458e95-9972-4a07-9f6b-eea5a13455d9}</Project>
+      <Name>ACM.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
