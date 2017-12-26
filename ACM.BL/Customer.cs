@@ -15,7 +15,7 @@ namespace ACM.BL
 
        public void ValidateEmail()
        {
-           throw new NotImplementedException();
+           //Code to validate the customer email
        }
     }
 }

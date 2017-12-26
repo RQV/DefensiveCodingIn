@@ -12,5 +12,10 @@ namespace ACM.Repository
         {
             //code that add a customer
         }
+
+        public void Update()
+        {
+            //Code to update the customer.
+        }
     }
 }
