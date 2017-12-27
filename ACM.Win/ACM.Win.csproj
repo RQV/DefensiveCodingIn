@@ -82,9 +82,9 @@
       <Project>{b683eae1-2739-40a0-89a6-97599836a94c}</Project>
       <Name>ACM.BL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ACM.Repository\ACM.Repository.csproj">
-      <Project>{fb458e95-9972-4a07-9f6b-eea5a13455d9}</Project>
-      <Name>ACM.Repository</Name>
+    <ProjectReference Include="..\ACM.Controller\ACM.Controller.csproj">
+      <Project>{b1f9f379-105e-4ec6-92ed-978eb57d1ae5}</Project>
+      <Name>ACM.Controller</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.Repository", "ACM.Repos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Common", "Core.Common\Core.Common.csproj", "{8EEBE90C-EBEF-4DE3-AEE5-3F95C6E3C8A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.Controller", "ACM.Controller\ACM.Controller.csproj", "{B1F9F379-105E-4EC6-92ED-978EB57D1AE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8EEBE90C-EBEF-4DE3-AEE5-3F95C6E3C8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EEBE90C-EBEF-4DE3-AEE5-3F95C6E3C8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EEBE90C-EBEF-4DE3-AEE5-3F95C6E3C8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F9F379-105E-4EC6-92ED-978EB57D1AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F9F379-105E-4EC6-92ED-978EB57D1AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F9F379-105E-4EC6-92ED-978EB57D1AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F9F379-105E-4EC6-92ED-978EB57D1AE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
