@@ -17,5 +17,19 @@ namespace ACM.BL
        {
            //Code to validate the customer email
        }
+       public decimal CalculatePercentOfGoalSteps(string goalSteps, string actualSteps)
+       {
+           decimal result = 0;
+           decimal goalStepsCount = 0;
+           decimal actualStepsCount = 0;
+           decimal.TryParse(goalSteps, out goalStepsCount);
+           decimal.TryParse(actualSteps, out actualStepsCount);
+
+           if (goalStepsCount > 0)
+           { 
+               result = (actualStepsCount / goalStepsCount) * 100;
+           }
+           return result;
+       }
     }
 }

@@ -8,3 +8,12 @@ C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\obj\Debug\ACM.Win.Properti
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\obj\Debug\ACM.Win.csproj.GenerateResource.Cache
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\obj\Debug\ACM.Win.exe
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\obj\Debug\ACM.Win.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\bin\Debug\ACM.BL.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\bin\Debug\ACM.Controller.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\bin\Debug\ACM.Repository.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\bin\Debug\Core.Common.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\bin\Debug\ACM.BL.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\bin\Debug\ACM.Controller.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\bin\Debug\ACM.Repository.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\bin\Debug\Core.Common.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Win\obj\Debug\ACM.Win.PedometerWin.resources

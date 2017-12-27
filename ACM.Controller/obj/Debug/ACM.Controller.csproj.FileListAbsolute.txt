@@ -1,0 +1,11 @@
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\bin\Debug\ACM.Controller.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\bin\Debug\ACM.Controller.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\bin\Debug\ACM.BL.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\bin\Debug\ACM.Repository.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\bin\Debug\Core.Common.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\bin\Debug\ACM.BL.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\bin\Debug\ACM.Repository.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\bin\Debug\Core.Common.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\obj\Debug\ACM.Controller.csprojResolveAssemblyReference.cache
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\obj\Debug\ACM.Controller.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\obj\Debug\ACM.Controller.pdb
