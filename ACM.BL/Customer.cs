@@ -19,17 +19,20 @@ namespace ACM.BL
        }
        public decimal CalculatePercentOfGoalSteps(string goalSteps, string actualSteps)
        {
-           decimal result = 0;
            decimal goalStepsCount = 0;
            decimal actualStepsCount = 0;
-           decimal.TryParse(goalSteps, out goalStepsCount);
-           decimal.TryParse(actualSteps, out actualStepsCount);
 
-           if (goalStepsCount > 0)
-           { 
-               result = (actualStepsCount / goalStepsCount) * 100;
-           }
-           return result;
+           if(string.IsNullOrWhiteSpace(goalSteps)) throw new ArgumentException("Goal must be entered", "goalSteps");
+           if(string.IsNullOrWhiteSpace(actualSteps)) throw new ArgumentException("Actual Steps must be entered", "actualSteps");
+           if(!decimal.TryParse(goalSteps, out goalStepsCount)) throw new ArgumentException("Goals must be numeric", "goalSteps");
+           if(!decimal.TryParse(actualSteps, out actualStepsCount))throw new ArgumentException("Actual Steps must be numeric", "actualSteps");
+
+           return CalculatePercentOfGoalSteps(goalStepsCount, actualStepsCount);
+       }
+       public decimal CalculatePercentOfGoalSteps(decimal goalStepsCount, decimal actualStepsCount)
+       {
+           if (goalStepsCount <= 0) throw new ArgumentException("Goal must be greater than 0", "goalSteps");
+           return (actualStepsCount / goalStepsCount) * 100;
        }
     }
 }
