@@ -5,3 +5,11 @@ C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Repository\bin\Debug\ACM.BL.pd
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Repository\obj\Debug\ACM.Repository.csprojResolveAssemblyReference.cache
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Repository\obj\Debug\ACM.Repository.dll
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Repository\obj\Debug\ACM.Repository.pdb
+C:\C#_Practices\DefensiveCodingIn\ACM.Repository\bin\Debug\ACM.Repository.dll
+C:\C#_Practices\DefensiveCodingIn\ACM.Repository\bin\Debug\ACM.Repository.pdb
+C:\C#_Practices\DefensiveCodingIn\ACM.Repository\bin\Debug\ACM.BL.dll
+C:\C#_Practices\DefensiveCodingIn\ACM.Repository\bin\Debug\ACM.BL.pdb
+C:\C#_Practices\DefensiveCodingIn\ACM.Repository\obj\Debug\ACM.Repository.csprojResolveAssemblyReference.cache
+C:\C#_Practices\DefensiveCodingIn\ACM.Repository\obj\Debug\ACM.Repository.csproj.CoreCompileInputs.cache
+C:\C#_Practices\DefensiveCodingIn\ACM.Repository\obj\Debug\ACM.Repository.dll
+C:\C#_Practices\DefensiveCodingIn\ACM.Repository\obj\Debug\ACM.Repository.pdb

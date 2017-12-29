@@ -9,3 +9,15 @@ C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\bin\Debug\Core.Comm
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\obj\Debug\ACM.Controller.csprojResolveAssemblyReference.cache
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\obj\Debug\ACM.Controller.dll
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.Controller\obj\Debug\ACM.Controller.pdb
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\bin\Debug\ACM.Controller.dll
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\bin\Debug\ACM.Controller.pdb
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\bin\Debug\ACM.BL.dll
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\bin\Debug\ACM.Repository.dll
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\bin\Debug\Core.Common.dll
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\bin\Debug\ACM.BL.pdb
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\bin\Debug\ACM.Repository.pdb
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\bin\Debug\Core.Common.pdb
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\obj\Debug\ACM.Controller.csprojResolveAssemblyReference.cache
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\obj\Debug\ACM.Controller.csproj.CoreCompileInputs.cache
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\obj\Debug\ACM.Controller.dll
+C:\C#_Practices\DefensiveCodingIn\ACM.Controller\obj\Debug\ACM.Controller.pdb

@@ -3,3 +3,9 @@ C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BL\bin\Debug\ACM.BL.pdb
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BL\obj\Debug\ACM.BL.dll
 C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\C#_Practices\DefensiveCodingIn\ACM.BL\bin\Debug\ACM.BL.dll
+C:\C#_Practices\DefensiveCodingIn\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\C#_Practices\DefensiveCodingIn\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\C#_Practices\DefensiveCodingIn\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\C#_Practices\DefensiveCodingIn\ACM.BL\obj\Debug\ACM.BL.dll
+C:\C#_Practices\DefensiveCodingIn\ACM.BL\obj\Debug\ACM.BL.pdb
