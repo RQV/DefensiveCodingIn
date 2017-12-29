@@ -13,3 +13,17 @@ C:\C#_Practices\DefensiveCodingIn\ACM.BLTests\obj\Debug\ACM.BLTests.csprojResolv
 C:\C#_Practices\DefensiveCodingIn\ACM.BLTests\obj\Debug\ACM.BLTests.csproj.CoreCompileInputs.cache
 C:\C#_Practices\DefensiveCodingIn\ACM.BLTests\obj\Debug\ACM.BLTests.dll
 C:\C#_Practices\DefensiveCodingIn\ACM.BLTests\obj\Debug\ACM.BLTests.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\bin\Debug\ACM.BLTests.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\bin\Debug\ACM.BLTests.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\bin\Debug\ACM.BL.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\bin\Debug\ACM.BL.pdb
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\obj\Debug\ACM.BLTests.csprojResolveAssemblyReference.cache
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\obj\Debug\ACM.BLTests.dll
+C:\ASP.NET\C#\Practices\3_Mod\DefensiveCoding\ACM.BLTests\obj\Debug\ACM.BLTests.pdb
