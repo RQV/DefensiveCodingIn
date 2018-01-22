@@ -14,11 +14,13 @@ namespace ACM.Controller
         private CustomerRepository customerRepository { get; set; }
         private OrderRepository orderRepository { get; set; }
         private InventoryRepository inventoryRepository { get; set; }
+        private EmailLibrary emailLibrary;
         public OrderController()
         {
             customerRepository = new CustomerRepository();
             orderRepository = new OrderRepository();
             inventoryRepository = new InventoryRepository();
+            emailLibrary = new EmailLibrary();
         }
         public void PlaceOrder(Order order, Customer customer, 
                                Payment payment, bool allowSplitOrders, bool emailReceipt)
@@ -29,10 +31,12 @@ namespace ACM.Controller
             payment.processPayment(payment);
             if (emailReceipt)
             {
-                customer.ValidateEmail();
-                customerRepository.Update();
-                var emailLibrary = new EmailLibrary();
-                emailLibrary.SendEmail(customer.Email, "Here is your receipt");
+               var result = customer.ValidateEmail();
+                if (result.Success)
+                {
+                    customerRepository.Update();
+                    emailLibrary.SendEmail(customer.Email, "Here is your receipt");
+                }
             }
         }
     }

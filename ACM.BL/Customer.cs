@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Core.Common;
 namespace ACM.BL
 {
    public class Customer
@@ -13,9 +13,35 @@ namespace ACM.BL
        public string LastName { get; set; }
        public string Email { get; set; }
 
-       public void ValidateEmail()
+       public OperationResult ValidateEmail()
        {
-           //Code to validate the customer email
+            var operationResult = new OperationResult();
+
+            if (string.IsNullOrWhiteSpace(this.Email))
+            {
+                operationResult.Success = false;
+                operationResult.AddMessage("Email address is null");
+            }
+            if (operationResult.Success)
+            {
+                var validFormat = true;
+                if (!validFormat)
+                {
+                    operationResult.Success = false;
+                    operationResult.AddMessage("Email address is not in a correct format");
+                }
+            }
+            if (operationResult.Success)
+            {
+                var realDomain = true;
+                if (!realDomain)
+                {
+                    operationResult.Success = false;
+                    operationResult.AddMessage("Email address does not include a valid domain");
+                }
+            }
+
+            return operationResult;
        }
        public decimal CalculatePercentOfGoalSteps(string goalSteps, string actualSteps)
        {
